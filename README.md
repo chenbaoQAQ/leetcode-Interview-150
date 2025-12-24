@@ -30,5 +30,6 @@
 | 017 | [13. 罗马数字转整数](./src/main/java/ljc/L017.md) | 🟢 简单 | 反向遍历减法规则 | [L017.java](./src/main/java/ljc/L017.java) | [L017_Text.java](./src/test/java/ljc/L017_Text.java) |
 | 018 | [12. 整数转罗马数字](./src/main/java/ljc/L018.md) | 🟡 中等 | 贪心数值匹配 | [L018.java](./src/main/java/ljc/L018.java) | [L018_Text.java](./src/test/java/ljc/L018_Text.java) |
 | 019 | [58. 最后一个单词的长度](./src/main/java/ljc/L019.md) | 🟢 简单 | 反向扫描计数 | [L019.java](./src/main/java/ljc/L019.java) | [L019_Text.java](./src/test/java/ljc/L019_Text.java) |
+| 020 | [14. 最长公共前缀](./src/main/java/ljc/L020.md) | 🟢 简单 | 按列扫描 Column Scan | [L020.java](./src/main/java/ljc/L020.java) | [L020_Text.java](./src/test/java/ljc/L020_Text.java) |
 ---
-*最近更新于: 2025-12-22*
+*最近更新于: 2025-12-24*
