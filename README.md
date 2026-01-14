@@ -9,6 +9,7 @@
 - **测试框架**: JUnit 5
 ## 📈 刷题进度记录
 数组/字符串
+
 | 序号 | 题目 | 难度 | 核心解法 | 代码 | 测试用例 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 001 | [88. 合并两个有序数组](src/main/java/ljc/array_string/L001.md) | 🟢 简单 | 逆向双指针 | [L001.java](src/main/java/ljc/array_string/L001.java) | [L001_Text.java](src/test/java/ljc/array_string/L001_Text.java) |
@@ -35,6 +36,8 @@
 | 022 | [6. Z 字形变换](src/main/java/ljc/array_string/L022.md) | 🟡 中等 | 周期映射 | [L022.java](src/main/java/ljc/array_string/L022.java) | [L022_Text.java](src/test/java/ljc/array_string/L022_Text.java) |
 | 023 | [28. 找出字符串第一个匹配下标](src/main/java/ljc/array_string/L023.md) | 🟢 简单 | 窗口切片匹配 | [L023.java](src/main/java/ljc/array_string/L023.java) | [L023_Text.java](src/test/java/ljc/array_string/L023_Text.java) |
 | 024 | [68. 文本左右对齐](src/main/java/ljc/array_string/L024.md) | 🔴 困难 | 贪心装箱+空格分发 | [L024.java](src/main/java/ljc/array_string/L024.java) | [L024_Text.java](src/test/java/ljc/array_string/L024_Text.java) |
+
+
 链表
 
 | 序号 | 题目 | 难度 | 核心解法 | 代码 | 测试用例 |
