@@ -13,7 +13,6 @@ public class L002 {
             int sum = x + y + carry;
             carry = sum / 10;
 
-            // --- 修正部分 ---
             // 1. 先造出新房间，并接到当前水管后面
             curr.next = new ListNode(sum % 10);
             // 2. 然后手（curr）再挪到新房间上
