@@ -42,7 +42,7 @@
 
 | 序号 | 题目 | 难度 | 核心解法 | 代码 | 测试用例 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 001 | [141. 环形链表](src/main/java/ljc/linklist/L001.md) | 🟢 简单 | 快慢指针（套圈法） | [L001.java](src/main/java/ljc/linklist/L001.java) | [L001Test.java](src/test/java/ljc/linklist/L001Test.java) |
+| 001 | [141. 环形链表](src/main/java/ljc/linklist/L001.md) | 🟢 简单 | 快慢指针（套圈法） | [L001.java](src/main/java/ljc/linklist/L001.java) | [L001_Test.java](src/test/java/ljc/linklist/L001_Test.java) |
 | 002 | [2. 两数相加](src/main/java/ljc/linklist/L002.md) | 🟡 中等 | 虚拟头节点 + 进位 | [L002.java](src/main/java/ljc/linklist/L002.java) | [L002_Text.java](src/test/java/ljc/linklist/L002_Text.java) |
 ---
-*最近更新于: 2026-01-04*
+*最近更新于: 2026-01-14*
